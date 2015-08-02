@@ -12,7 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require 'bootstrap-sass-official/dropdown'
+//= require 'bootstrap-sass-official/bootstrap/dropdown'
 //= require angular/angular
 //= require angular-route/angular-route
 //= require ui-bootstrap-custom-0.12.0
